@@ -1,0 +1,22 @@
+# Core Deep Learning
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Data Processing & Visualization
+numpy>=1.21.0
+matplotlib>=3.5.0
+seaborn>=0.12.0
+pandas>=1.4.0
+
+# Progress Bars
+tqdm>=4.64.0
+
+# Machine Learning Utilities
+scikit-learn>=1.0.0
+
+# Jupyter Notebook
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Image Processing (optional, for additional preprocessing)
+Pillow>=9.0.0
